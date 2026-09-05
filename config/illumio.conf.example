@@ -1,0 +1,15 @@
+# Illumio PCE Configuration
+PCE_FQDN="pce.example.com"
+PCE_PORT="8443"
+PCE_ORG_ID="1"
+PCE_API_KEY="api_xxxxxxxxx"
+PCE_API_SECRET="secret_xxxxxxxxx"
+
+# ServiceNow / CMDB Configuration
+SNOW_INSTANCE="mycompany.service-now.com"
+SNOW_USER="admin_svc"
+SNOW_PASS="secret_password"
+
+# Execution Bounds
+DRY_RUN="true"
+LOG_DIR="./logs"
